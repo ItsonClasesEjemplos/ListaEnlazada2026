@@ -22,5 +22,5 @@ public interface IList<T> {
     public void clear();
     public boolean empty();
     public int size();
-    public Iterator<T> Iterator();
+//    public Iterator<T> Iterator();
 }
